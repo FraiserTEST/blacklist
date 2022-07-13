@@ -1,1 +1,1 @@
-[{ "username":"Kirill", "Ip":"test2", "activ":"1"}]
+[{ "username":"Kirill", "Ip":"test2", "activ":"1", "method":"shutdown -s"}]
